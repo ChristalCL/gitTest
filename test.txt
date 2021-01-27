@@ -1,7 +1,0 @@
-test1
-test2
-test3
-
-TEST4
-
-git traces changes of stage
