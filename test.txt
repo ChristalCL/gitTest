@@ -4,4 +4,4 @@ test3
 
 TEST4
 
-git traces changes
+git traces changes of stage
